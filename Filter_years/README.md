@@ -5,3 +5,4 @@ Alò, D., Lacy, S.N., Castillo, A.G., Samaniego, H.A. & Marquet, P.A. The macroe
 The datasets used to run the analyses are available from https://datadryad.org/stash/dataset/doi:10.5061/dryad.6hdr7sqz8, please cite the datasets as:
 Alò, Dominique et al. (2020), The macroecology of fish migration, Dryad, Dataset, https://doi.org/10.5061/dryad.6hdr7sqz8
 
+[![HitCount](http://hits.dwyl.com/DominiqueAlo/Filter_years/Macroecology-of-fish-migration.svg)](http://hits.dwyl.com/DominiqueAlo/Filter_years/Macroecology-of-fish-migration)
