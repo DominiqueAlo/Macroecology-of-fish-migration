@@ -1,5 +1,10 @@
 ---
 title: "Kinetic Energy Hypothesis in Migratory Fishes"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 author: "cite as: Alò, D., Lacy, S.N., Castillo, A.G., Samaniego, H.A. & Marquet, P.A. The macroecology of fish migration. Global Ecology and Biogeography."
 output:
   html_document: default
